@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MonAppKotlin</string>
+    <string name="text_btn">Cliquez-moi</string>
+
+</resources>
